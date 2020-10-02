@@ -32,7 +32,7 @@ Some obervations:
 
 * The most popular starting times seem to mimic a 9-5 work schedule. It's not conclusive for several reasons, the most obvious being that I did not pull weekends out of the data. Perhaps if I did, the peaks would have been more extreme.
 
-This is a simple project illustrating the how multiple modalities can combine to grab, clean and visualize data.  In this case, I used information readily available from NY State for the collaboration with Citibank to provide bike rentals throughout the Greater Manhattan area. The analysis itself is not particularly complicated. With more time, I would have included a larger database and calculations for forecasting methods.
+This project illustrates how multiple modalities can combine to grab, clean and visualize data. The data comes from the Citibike program is held in Amazon Web Servers and was extracted and cleaned using the Python programming language. Analysis and visualizations were created using Tableau.
 # Screenshots:
 
 ```
