@@ -2,7 +2,7 @@
 Webscraping and data cleaning using Python libraries: Splinter and Urllib.
 Visualization with Tableau.
 
-[Link to Tableau Public](https://10ay.online.tableau.com/#/site/cerejarosinha/views/CitibikeDecember2018/Dashboard1?:iid=1)
+[Link to Tableau Public](https://public.tableau.com/profile/cerejarosinha#!/vizhome/Citibike-in_the_City/Dashboard1?publish=yes)
 
 ### This interactive map allows the user to interact with Citi Bike activity for the last month of 2018.
 
