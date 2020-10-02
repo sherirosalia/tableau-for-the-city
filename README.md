@@ -1,8 +1,20 @@
 # Tableau-for-the-Citi-
-Webscraping and data cleaning using Python libraries: Splinter and Urllib.
+Webscraping and data cleaning AWS s3 files using Python libraries: Splinter and Urllib.
+
 Visualization with Tableau.
 
 [Link to Tableau Public](https://public.tableau.com/profile/cerejarosinha#!/vizhome/Citibike-in_the_City/Dashboard1?publish=yes)
+
+### File structure
+- Root folder contains readme and the following folders:
+- "python" folder contains the script "data_extract" which Selenium to automate a browser to download the 
+Amazon SW3 files used for the project. The file citibikeClean normalizes and selects datapoints to be used in the visualizations.
+- "tableau_package" has the Tableau data extract and workbook.
+-  "citi_data_files" stores embed code for HTML
+- "images" house screenshots for readme
+
+### Deployment
+Open the files from the folder named python with Colab, Jupyter Notebook or the like. Tableau is needed to open the package.
 
 ### This interactive map allows the user to interact with Citi Bike activity for the last month of 2018.
 
