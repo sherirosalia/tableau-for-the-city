@@ -36,7 +36,7 @@ from datetime import datetime
 ```
 
 ## Dashboard
-<a href="url"><img src="https://github.com/sherirosalia/Tableau-for-the-Citi-/blob/master/Dashboard%20.png" align="center"></a>
+<a href="url"><img src="https://github.com/sherirosalia/tableau-for-the-city/blob/master/images/Dashboard.png" align="center"></a>
 
 ## Nonsubscribers vs Subscribers
 <a href="url"><img src="https://github.com/sherirosalia/tableau-for-the-city/blob/master/images/Customers.png" align="center"></a>
@@ -45,7 +45,7 @@ from datetime import datetime
 <a href="url"><img src="https://github.com/sherirosalia/tableau-for-the-city/blob/master/images/RideMap.png" align="center"></a>
 
 ## Starting Times
-<a href="url"><img src="https://github.com/sherirosalia/tableau-for-the-city/blob/master/images/Dashboard%20.png" align="center"></a>
+<a href="url"><img src="https://github.com/sherirosalia/tableau-for-the-city/blob/master/images/StartTimes.png" align="center"></a>
 
 ## Top Pick Up Stations
 <a href="url"><img src="https://github.com/sherirosalia/tableau-for-the-city/blob/master/images/StartStations.png" align="center"></a>
